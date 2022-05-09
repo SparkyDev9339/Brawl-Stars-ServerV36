@@ -9,7 +9,7 @@ My Server Brawl Stars v36
 
 
 ## Client ##
-Мой клиент лень искать
+[Client](https://t.me/BGJSTUDIO/91)
 
 
 ## Image ##
